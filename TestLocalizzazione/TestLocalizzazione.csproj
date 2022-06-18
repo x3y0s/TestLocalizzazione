@@ -63,11 +63,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <EmbeddedResource Include="Resource1.de-DE.resx" />
-    <EmbeddedResource Include="Resource1.en-US.resx" />
-    <EmbeddedResource Include="Resource1.mt-MT.resx" />
-    <EmbeddedResource Include="Resource1.es-ES.resx" />
-    <EmbeddedResource Include="Resource1.it-IT.resx" />
+    <EmbeddedResource Include="Resource.de-DE.resx" />
+    <EmbeddedResource Include="Resource.en-US.resx" />
+    <EmbeddedResource Include="Resource.mt-MT.resx" />
+    <EmbeddedResource Include="Resource.es-ES.resx" />
+    <EmbeddedResource Include="Resource.it-IT.resx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

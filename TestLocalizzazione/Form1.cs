@@ -20,7 +20,7 @@ namespace TestLocalizzazione
         {
             InitializeComponent();
 
-            _manager = new ResourceManager("TestLocalizzazione.Resource1", typeof(Form1).Assembly);
+            _manager = new ResourceManager("TestLocalizzazione.Resource", typeof(Form1).Assembly);
 
             string culture = Thread.CurrentThread.CurrentCulture.ToString();
             string uiCulture = Thread.CurrentThread.CurrentUICulture.ToString();
